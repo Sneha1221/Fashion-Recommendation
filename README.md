@@ -1,5 +1,12 @@
 # FASHION RECOMMENDATION
 
+# TEAM MEMBERS
+1. Gayatri Krishna | [LinkedIn](https://www.linkedin.com/in/gayatri-krishna/)
+2. Jerusha Gomez | [LinkedIn](https://www.linkedin.com/in/jerusha-gomez/)
+3. Sneha T | [LinkedIn](https://www.linkedin.com/in/sneha1221/)
+4. Shivanshi Maheshwari | [LinkedIn](https://www.linkedin.com/in/shivanshi-maheshwari/)
+5. Ayesha Shariff | [LinkedIn](https://www.linkedin.com/in/ayesha-shariff99/)
+
 
 ## INTRODUCTION
 Recommender systems are used in organizations like Netflix, YouTube, and Amazon. The systems lure customers with pertinent recommendations based on their selections.
